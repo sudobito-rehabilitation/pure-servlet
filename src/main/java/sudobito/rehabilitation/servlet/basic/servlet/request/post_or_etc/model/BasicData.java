@@ -1,4 +1,4 @@
-package sudobito.rehabilitation.servlet.basic.servlet.post_or_etc.model;
+package sudobito.rehabilitation.servlet.basic.servlet.request.post_or_etc.model;
 
 import lombok.Getter;
 import lombok.Setter;

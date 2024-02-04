@@ -1,4 +1,4 @@
-package sudobito.rehabilitation.servlet.basic.servlet.post_or_etc;
+package sudobito.rehabilitation.servlet.basic.servlet.request.post_or_etc;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.ServletInputStream;
@@ -7,7 +7,7 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.util.StreamUtils;
-import sudobito.rehabilitation.servlet.basic.servlet.post_or_etc.model.BasicData;
+import sudobito.rehabilitation.servlet.basic.servlet.request.post_or_etc.model.BasicData;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

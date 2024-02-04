@@ -1,4 +1,4 @@
-package sudobito.rehabilitation.servlet.basic.servlet.post_or_etc;
+package sudobito.rehabilitation.servlet.basic.servlet.request.post_or_etc;
 
 import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.annotation.WebServlet;
