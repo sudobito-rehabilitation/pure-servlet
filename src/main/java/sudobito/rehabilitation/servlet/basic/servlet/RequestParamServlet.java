@@ -8,6 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.util.Arrays;
 
 // 요청 : http://localhost:8080/request-param?username=hello&age=20
+// Post 여도, content-type: application/x-www-form-urlencoded 일 경우에는, 파라미터와 동일하게 처리
 @WebServlet(name = "requestParamServlet", urlPatterns = "/request-param")
 public class RequestParamServlet extends HttpServlet {
     @Override
