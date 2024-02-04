@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletResponse;
 // name : servlet 이름
 // urlPatterns : Url 매핑
 @WebServlet(name = "sudobitoServlet", urlPatterns = "/sudobito")
-public class HelloServlet extends HttpServlet {
+public class SudobitoServlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) {
 
