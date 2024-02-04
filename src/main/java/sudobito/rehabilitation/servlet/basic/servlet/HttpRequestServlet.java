@@ -1,4 +1,4 @@
-package sudobito.rehabilitation.servlet.basic;
+package sudobito.rehabilitation.servlet.basic.servlet;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
