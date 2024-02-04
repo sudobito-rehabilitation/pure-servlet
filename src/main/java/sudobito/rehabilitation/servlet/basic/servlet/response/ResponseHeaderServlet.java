@@ -1,4 +1,4 @@
-package sudobito.rehabilitation.servlet.basic.servlet.response.get;
+package sudobito.rehabilitation.servlet.basic.servlet.response;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
