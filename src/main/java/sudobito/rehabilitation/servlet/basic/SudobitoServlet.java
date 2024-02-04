@@ -12,6 +12,5 @@ import jakarta.servlet.http.HttpServletResponse;
 public class SudobitoServlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) {
-
     }
 }
